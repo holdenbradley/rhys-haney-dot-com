@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sarah & Marcus",
+    "location": "Boulder, CO",
+    "quote": "Rhys captured our wedding day exactly the way it felt — wild, intimate, alive. We kept finding ourselves in his frames before we even posed.",
+    "rating": 5,
+    "service": "Weddings"
+  },
+  {
+    "name": "The Patel Family",
+    "location": "Niwot, CO",
+    "quote": "We've done family portraits every year and these are the first ones the kids actually want printed. Rhys made them comfortable in five minutes flat.",
+    "rating": 5,
+    "service": "Family Sessions"
+  },
+  {
+    "name": "Jake R.",
+    "location": "Nederland, CO",
+    "quote": "He hiked the entire ridgeline with me to get one frame. That tells you everything.",
+    "rating": 5,
+    "service": "Action Sports"
+  }
+]

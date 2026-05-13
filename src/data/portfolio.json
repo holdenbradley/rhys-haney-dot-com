@@ -1,0 +1,63 @@
+{
+  "instagramHandle": "@rhys_haney_",
+  "email": "rhys@haney.photo",
+  "location": "Boulder, CO",
+  "categories": [
+    {
+      "slug": "weddings",
+      "title": "Weddings",
+      "description": "Timeless documentation of your day. Full-day coverage with edited gallery, second shooter optional.",
+      "priceFrom": 1800,
+      "priceFull": 2400,
+      "heroAlt": "Romantic wedding photography in Boulder, Colorado"
+    },
+    {
+      "slug": "graduations",
+      "title": "Graduations",
+      "description": "Capture your milestone. Individual portraits and group sessions on campus or at iconic Boulder spots.",
+      "priceFrom": 250,
+      "priceFull": 500,
+      "heroAlt": "Graduation photography Boulder CO"
+    },
+    {
+      "slug": "sports",
+      "title": "Team Sports",
+      "description": "Action-packed team and individual portraits — basketball, football, soccer, lacrosse, and more.",
+      "priceFrom": 300,
+      "priceFull": 750,
+      "heroAlt": "Team sports photography"
+    },
+    {
+      "slug": "action-sports",
+      "title": "Action Sports",
+      "description": "Skiing, snowboarding, biking, climbing, trail running. Capture the adrenaline in the Rockies.",
+      "priceFrom": 450,
+      "priceFull": 900,
+      "heroAlt": "Action sports photography in Boulder, CO"
+    },
+    {
+      "slug": "headshots",
+      "title": "Professional Headshots",
+      "description": "Corporate, LinkedIn, or personal branding shots — natural light or studio.",
+      "priceFrom": 150,
+      "priceFull": 350,
+      "heroAlt": "Professional headshots Boulder"
+    },
+    {
+      "slug": "families",
+      "title": "Family Sessions",
+      "description": "Capture your loved ones. Outdoor at Chautauqua, studio, or candid lifestyle in your home.",
+      "priceFrom": 400,
+      "priceFull": 800,
+      "heroAlt": "Family photography session Boulder"
+    },
+    {
+      "slug": "events",
+      "title": "Events",
+      "description": "Parties, fundraisers, corporate events. Full or half-day coverage with quick turnaround.",
+      "priceFrom": 600,
+      "priceFull": 1500,
+      "heroAlt": "Event photography Boulder Colorado"
+    }
+  ]
+}
